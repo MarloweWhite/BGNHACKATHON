@@ -1,0 +1,22 @@
+{
+  "name": "bgnhackathon",
+  "version": "1.0.0",
+  "description": "",
+  "main": "keyword.js",
+  "scripts": {
+    "start": "node keyword.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MarloweWhite/BGNHACKATHON.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/MarloweWhite/BGNHACKATHON/issues"
+  },
+  "homepage": "https://github.com/MarloweWhite/BGNHACKATHON#readme",
+  "dependencies": {
+    "flat": "^4.1.0"
+  }
+}
